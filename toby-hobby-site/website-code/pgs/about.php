@@ -4,7 +4,7 @@
 <div class="container">
   <div class="card">
     <div class="card-body">
-      about text
+      this is a website to showcase various things that interest me
     </div>
   </div>
 </div>
